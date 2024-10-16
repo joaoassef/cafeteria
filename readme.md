@@ -35,3 +35,12 @@ Para configurar o projeto localmente, siga os seguintes passos:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/joaoassef/cafeteria.git
+
+ ## Créditos
+
+Este site foi desenvolvido com a assistência da **ChatGPT**, uma Inteligência Artificial criada pela OpenAI. O código e a estrutura da página foram gerados automaticamente pela IA com base nas necessidades do projeto.
+
+---
+
+Desenvolvido por **ChatGPT** - uma IA treinada pela OpenAI para auxiliar em tarefas de desenvolvimento e escrita de código.
+  
